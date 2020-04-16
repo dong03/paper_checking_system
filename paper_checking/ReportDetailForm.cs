@@ -79,7 +79,7 @@ namespace paper_checking
             startWords += titletemp.Length - 9;
             //startWords = sourceFile2.IndexOf("#####\r\n") + "#####\r\n".Length;
             int i = 0;
-            richTextBox1.Text = titletemp + sourceFile2.ToString() + "声明：本查重报告上的所有内容仅供参考。商业合作、技术咨询及BUG反馈可联系QQ/微信：654062779";
+            richTextBox1.Text = titletemp + sourceFile2.ToString() + " ";
             //richTextBox1.Text = sourceFile2 + sourceFile;
             //int i = sourceFile2.Replace("\r\n"," ").Length;
 

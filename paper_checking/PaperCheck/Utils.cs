@@ -221,10 +221,6 @@ namespace paper_checking.PaperCheck
             { }
         }
 
-        static public void AdsMessage()
-        {
-            MessageBox.Show("本项目可以提供c#版本的相关技术支持，也可定制java版sdk开发包及技术支持，商业合作请联系微信/QQ：654062779。\r\n本提示您可自行修改源代码去除", "提示");
-        }
 
     }
 }
