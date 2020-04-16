@@ -1,8 +1,5 @@
 ﻿# 简体中文论文查重系统
 
-#### 写在前面
-2017年开始，学校严抓研究生论文抄袭，遂希望开发一套校内论文查重系统，将新的论文和校内历年的研究生毕业论文以及同级的学生论文进行查重作为万方和CNKI查重的补充。本项目于在2017年完成了第一版并投入使用，后经一年多的稳定运行和维护升级，于2018年开源。项目自上线稳定运行至今已产出5000+篇查重报告。目前本项目以维护为主进行常规更新和BUG修复。  
-
 #### 相关SDK
 目前团队开发了一套新的查重SDK（JAVA版）  
 项目链接：https://dreamspark.com.cn/blog/?id=1  
@@ -78,11 +75,3 @@ windows 7及以上，vs2017及以上，需安装vc2015运行库和.NET Framework
 ![image](https://github.com/tianlian0/paper_checking_system/blob/master/images/pic2.png)  
 项目运行演示视频：链接：https://pan.baidu.com/s/1VM9g4CT4nAwlZXOHePkoXQ 提取码：t059  
 PS：①截图部分内容涉及隐私，已马赛克处理。②截图、视频和本项目略有不同，一是因为视频和截图使用的不是最新版，二是因为[其它说明]第3条。  
-
-#### 欢迎打赏
-![image](https://github.com/tianlian0/paper_checking_system/blob/master/images/shang.png)  
-
-#### 商业合作
-本项目遵守AGPL3.0协议，同时本项目已申请三项软件著作权（证书号：3846389，4486326等）  
-本项目可以提供c#/java/c++版本的定制开发或技术支持，也可定制web版或客户端版系统。欢迎各企业、高校、机构合作。商业合作专用微信/QQ：654062779  
-应用场景：高校论文查重、企业合同查重、企业内部文档查重、学生作业查重等  
