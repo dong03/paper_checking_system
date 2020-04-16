@@ -200,7 +200,6 @@ namespace paper_checking.PaperCheck
          */
         public void StartCheckPaper()
         {
-            Utils.AdsMessage();
             //判断是否已经有一个正在进行的任务
             if (!Monitor.TryEnter(RunningEnv.EnvRunningLock))
             {
